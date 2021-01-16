@@ -1,3 +1,5 @@
+* * *
+
 # National Association of Engineering Student Councils, Inc.
 
 https://www.naesc.org/
@@ -29,13 +31,3 @@ NAESC spans 65+ universities with 250,000+ student members. To see
 :heart: [West Region](https://www.naesc.org/west)
 
 * * *
-
-# GEAR :gear: General Engineering Association Resource
-
-[GEAR](members.naesc.org)) is a platform where NAESC members can
-
-+ Register for Regional and National Conferences
-+ Manage Regional and National Conferences
-+ Share Resources
-+ Connect with Fellow Members on Forums
-
