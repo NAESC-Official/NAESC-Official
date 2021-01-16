@@ -1,16 +1,41 @@
-### Hi there 👋
+# National Association of Engineering Student Councils, Inc.
 
-<!--
-**NAESC-Official/NAESC-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.naesc.org/
 
-Here are some ideas to get you started:
+### Our Mission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board: **Advocate** for engineering students and schools across the nation.
+
+:gear: **Collaborate** with councils to learn how to serve students.
+
+:brain: **Lead** and develop skills to become a well-rounded engineer.
+
+### History
+
+The National Association of Engineering Student Councils, Inc. (NAESC) was established in 1983 as an avenue for Engineering Student Councils from around the United States to communicate and share ideas to be more effective organizations at their home schools. NAESC, Inc. commits itself to improving the engineering educational experience and supporting all engineering disciplines. This strong organization not only serves engineering student councils but also the engineering students each council represents. To achieve these goals, NAESC, Inc. works to facilitate communications among member councils, promotes engineering education, organizes programs and events, provides a resource of information about engineering student activities, and serves as a collective voice for engineering student councils. Since its inception, NAESC. membership has grown from a few schools in the central United States to over fifty schools nationwide. NAESC. also is working towards fostering professional relationships with the National Society of Professional Engineers (NSPE), the National Council of Examiners for engineering and Surveying (NCEES), the American Society for Engineering Education (ASEE), Tau Beta Pi Engineering Honor Society, and the Accreditation Board for Engineering and Technology, Inc. (ABET). In an effort to expand our membership’s horizons and contacts beyond the United States, NAESC is also working to collaborate with the Canadian Federation of Engineering Students (CFES), the Board of European Students of Technology (BEST), and the German organization “bonding”.
+
+### Member Universities
+
+NAESC spans 65+ universities with 250,000+ student members. To see
+
+:orange_heart: [North Atlantic Region](https://www.naesc.org/north-atlantic)
+
+:blue_heart: [Southeast Region](https://www.naesc.org/southeast)
+
+:green_heart: [Central Region](https://www.naesc.org/central)
+
+:purple_heart: [Midwest Region](https://www.naesc.org/midwest)
+
+:heart: [West Region](https://www.naesc.org/west)
+
+* * *
+
+# GEAR :gear: General Engineering Association Resource
+
+[GEAR](members.naesc.org)) is a platform where NAESC members can
+
++ Register for Regional and National Conferences
++ Manage Regional and National Conferences
++ Share Resources
++ Connect with Fellow Members on Forums
+
