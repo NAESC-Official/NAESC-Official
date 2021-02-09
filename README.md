@@ -20,14 +20,14 @@ The National Association of Engineering Student Councils, Inc. (NAESC) was estab
 
 NAESC spans 65+ universities with 250,000+ student members. To see
 
-:orange_heart: [North Atlantic Region](https://www.naesc.org/north-atlantic)
+:orange_circle: [North Atlantic Region](https://www.naesc.org/north-atlantic)
 
-:blue_heart: [Southeast Region](https://www.naesc.org/southeast)
+:large_blue_circle: [Southeast Region](https://www.naesc.org/southeast)
 
-:green_heart: [Central Region](https://www.naesc.org/central)
+:green_circle: [Central Region](https://www.naesc.org/central)
 
-:purple_heart: [Midwest Region](https://www.naesc.org/midwest)
+:purple_circle: [Midwest Region](https://www.naesc.org/midwest)
 
-:heart: [West Region](https://www.naesc.org/west)
+:red_circle: [West Region](https://www.naesc.org/west)
 
 * * *
